@@ -1,5 +1,5 @@
 {
-  "name": "CavitU/api-php-client",
+  "name": "cavit-u/api-php-client",
   "description": "Akeneo PIM client for the API",
   "license": "OSL-3.0",
   "minimum-stability": "stable",
