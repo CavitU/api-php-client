@@ -1,12 +1,11 @@
 {
-  "name": "akeneo/api-php-client",
+  "name": "CavitU/api-php-client",
   "description": "Akeneo PIM client for the API",
   "license": "OSL-3.0",
   "minimum-stability": "stable",
   "authors": [
     {
-      "name": "Akeneo",
-      "homepage": "http://www.akeneo.com"
+      "name": "CavitU",
     }
   ],
   "autoload": {
